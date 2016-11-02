@@ -10,3 +10,5 @@ this line added by Richard 15:12 2/11/16
 tis just a flesh wound
 
 get out of /jp/
+
+changes from offline branch 
